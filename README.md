@@ -104,8 +104,8 @@ variable) and 855969 records.
 
 ## Approach
 
-Our Main goal is to know that whether which species 
-it belong to Setosa, Versicolour or Virginica.
+Our Main goal is to know that whether which applicant 
+it belong to defaulter or non-defaulter.
 
 * Data Exploration : Exploring dataset using pandas,numpy,matplotlib and seaborn.
 * Data visualization : Use Tableau Data visualizationtools and also Ploted graphs to get insights about dependend and independed variables.
