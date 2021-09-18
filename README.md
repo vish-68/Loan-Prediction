@@ -24,7 +24,7 @@ collectively is referred to as underwriting.
 
 ## Data Analysis
 
-In Iris dataset we are provided 73 features(including target 
+In Lending Club – Loan Default Prediction dataset we are provided 73 features(including target 
 variable) and 855969 records.
 
 * addr_state : The state provided by the borrower in the loan application
